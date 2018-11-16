@@ -11,8 +11,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To introduce the fundamentals of Database Management Systems, data models and to represent a database system using ER diagrams.
+- To learn SQL and relational model.
+- To study relational database design.
+- To understand the internal storage structures using different file and indexing techniques and Query processing techniques .
+- To explore the fundamental concepts of transaction processing- concurrency control techniques and recovery procedures.
 
 {{{unit}}}
 |Unit I | <Title> | <Hours> |

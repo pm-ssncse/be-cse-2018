@@ -19,7 +19,7 @@
 
 
 {{{unit}}}
-|Unit I | Database Concepts and Conceptual Modeling | 9 |
+|Unit I | Database System Concepts and Conceptual Modeling | 8 |
 Characteristics of database -- Database users -- Data models, Schemas -- Three-schema architecture -- Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
 
 {{{unit}}}
@@ -50,7 +50,6 @@ After the completion of this course, students will be able to:
       
 ** Text Books 
 1. Ramez Elmasri and Shamkant B. Navathe, ``Fundamentals of Database Systems'', Pearson, 7th Edition, 2016. 
-
 
 ** Reference Books:
 1. Abraham Silberschatz, Henry F. Korth and S. Sudharshan, ``Database System Concepts'', Tata Mc Graw Hill, 6th Edition, 2011. 

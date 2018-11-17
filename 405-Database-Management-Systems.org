@@ -19,7 +19,6 @@
 
 
 {{{unit}}}
-|Unit I | <Title> | <Hours> |
 |Unit I | <Database Concepts and Conceptual Modeling> | <9> |
 Characteristics of database -- Database users -- Data models -- Schemas: Three-schema architecture; Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
 

@@ -19,23 +19,23 @@
 
 
 {{{unit}}}
-|Unit I | <Database Concepts and Conceptual Modeling> | <9> |
+|Unit I | Database Concepts and Conceptual Modeling | 9 |
 Characteristics of database -- Database users -- Data models -- Schemas: Three-schema architecture; Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
 
 {{{unit}}}
-|Unit II | <Relational Model and SQL> | <10> |
+|Unit II | Relational Model and SQL | 10 |
 Relational model: Concepts -- Constraints -- Update operations ; Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands ; More SQL: Complex retrieval queries -- Assertions and triggers -- Views -- Schema modification ; Relational Algebra: Unary and binary relational operations -- Set theory operations -- Additional operations.
 
 {{{unit}}}
-|Unit III | <Database Design> | <9> |
+|Unit III | Database Design | 9 |
 Design guidelines -- Functional dependencies -- First, second and third Normal Forms -- Boyce-Codd Normal Forms -- MVD and 4NF -- Join dependencies and 5NF ; FD: Inference rules, minimal cover -- Relational decomposition properties -- Algorithms for relational database schema design -- ER-to-relational mapping.
 
 {{{unit}}}
-|Unit IV | <Database Implementation and Query Processing> | <9> |
+|Unit IV | Database Implementation and Query Processing | 9 |
 File structure: Heap files -- Sorted files – Hashing techniques ; Indexing: single-level indexes -- multi-level indexes -- B-Trees and B+-Trees -- Indexes on multiple keys; Query processing: Strategies -- External sorting – Algorithm for SELECT and JOIN operations
 
 {{{unit}}}
-|Unit V | <Transaction, Concurrency and Recovery> | <9> |
+|Unit V | Transaction, Concurrency and Recovery | 9 |
 Transaction Processing: Concepts -- ACID properties -- schedules -- serializability; Concurrency control: Two-phase locking technique -- Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate update -- Shadow paging -- Multidatabase system recovery
 
 \hfill *Total: <45>*

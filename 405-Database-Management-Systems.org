@@ -11,12 +11,17 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
+- To introduce the fundamentals of Database systems and Conceptual Modeling .
+- To learn SQL and relational model.
+- To study relational database design.
+- To understand the storage structures, indexing techniques and Query processing techniques .
+- To explore the fundamental concepts of transaction processing, concurrency control and recovery techniques.
+
 
 {{{unit}}}
 |Unit I | <Title> | <Hours> |
-
+|Unit I | <Database Concepts and Conceptual Modeling> | <9> |
+Characteristics of database -- Database users -- Data models -- Schemas: Three-schema architecture; Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
 
 {{{unit}}}
 |Unit II | <Title> | <Hours> |

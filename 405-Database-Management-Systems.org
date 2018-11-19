@@ -13,8 +13,8 @@
 ** Course Objectives
 - To introduce the fundamentals of Database systems and Conceptual Modeling .
 - To learn SQL and relational model.
-- To study relational database design.
-- To understand the storage structures, indexing techniques and Query processing techniques .
+- To learn database programming and relational algebra.
+- To understand the relational database design.
 - To explore the fundamental concepts of transaction processing, concurrency control and recovery techniques.
 
 
@@ -23,29 +23,29 @@
 Characteristics of database -- Database users -- Data models, Schemas -- Three-schema architecture -- Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
 
 {{{unit}}}
-|Unit II | Relational Model and SQL | 10 |
-Relational model: Concepts -- Constraints -- Update operations ; Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands ; More SQL: Complex retrieval queries -- Assertions and triggers -- Views -- Schema modification ; Relational Algebra: Unary and binary relational operations -- Set theory operations -- Additional operations.
+|Unit II | Relational Model and Basic SQL | 10 |
+Relational model: Concepts -- Constraints -- Update operations -- Constraint voilations ; Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands -- Schema modification; More SQL: dealing NULL -- Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate functions -- Grouping
 
 {{{unit}}}
-|Unit III | Database Design | 9 |
+|Unit III | Database Programming and Relational Algebra | 9 |
+Triggers -- Views; Database Programming Techniques: Overview and Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and SQL/PSM ; Relational Algebra: Unary and binary relational operations -- Set theory operations -- Additional operations
+
+{{{unit}}}
+|Unit IV | Database Design | 9 |
 Design guidelines -- Functional dependencies -- First, second and third Normal Forms -- Boyce-Codd Normal Forms -- MVD and 4NF -- Join dependencies and 5NF ; FD: Inference rules, minimal cover -- Relational decomposition properties -- Algorithms for relational database schema design -- ER-to-relational mapping.
 
 {{{unit}}}
-|Unit IV | Database Implementation and Query Processing | 9 |
-File structure: Heap files -- Sorted files – Hashing techniques ; Indexing: single-level indexes -- multi-level indexes -- B-Trees and B+-Trees -- Indexes on multiple keys; Query processing: Strategies -- External sorting – Algorithm for SELECT and JOIN operations
-
-{{{unit}}}
 |Unit V | Transaction, Concurrency and Recovery | 9 |
-Transaction Processing: Concepts -- ACID properties -- schedules -- serializability; Concurrency control: Two-phase locking technique -- Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate update -- Shadow paging -- Multidatabase system recovery
+Transaction Processing: Concepts -- ACID properties -- schedules -- serializability; Concurrency control: Two-phase locking technique -- Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate update -- Multidatabase system recovery
 
 \hfill *Total: <45>*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the database concepts and apply ER models to any real world application - (K3)
-- Write complex queries using SQL-(K3)
+- Understand the database concepts  and apply ER models to  any real world application-(K3)
+- Apply data definition and complex SQL queries - (K3)
+- Write database program for a real-time application -(K3)
 - Design Databases for applications using normalization and ER to Relational mapping - (K3)
-- Compare and contrast various indexing strategies in different database systems-(K2)
 - Apply transaction processing, concurrency control and recovery mechanisms for practical problems. (K3)
       
 ** Text Books 

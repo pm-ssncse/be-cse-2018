@@ -45,8 +45,8 @@
 \hfill *Total: <45>*
 
 ** Software Required for a batch of 30 students:
-Database: Oracle 10g - 30 Clients with 1 Server Node
-Front-end: NetBeans (Java)
+1. Database: Oracle 10g - 30 Clients with 1 Server Node
+2. Front-end: NetBeans with JDBC (Java)
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

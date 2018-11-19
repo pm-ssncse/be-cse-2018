@@ -23,7 +23,7 @@
 Characteristics of database -- Database users -- Data models, Schemas -- Three-schema architecture -- Database system environment -- Centralized and client/server DBMS architectures -- Data modeling using ER model -- Enhanced-ER model.
 
 {{{unit}}}
-|Unit II | Relational Model and Basic SQL | 10 |
+|Unit II | Relational Model and SQL | 10 |
 Relational model: Concepts -- Constraints -- Update operations -- Constraint voilations ; Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands -- Schema modification; More SQL: dealing NULL -- Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate functions -- Grouping
 
 {{{unit}}}

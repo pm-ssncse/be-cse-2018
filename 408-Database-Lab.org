@@ -44,7 +44,7 @@
 
 \hfill *Total: <45>*
 
-Hardware/Software Required for a batch of 30 students:
+** Software Required for a batch of 30 students:
 Database: Oracle 10g - 30 Clients with 1 Server Node
 Front-end: NetBeans (Java)
 

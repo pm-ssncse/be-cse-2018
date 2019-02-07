@@ -45,7 +45,7 @@ Introduction to NOSQL Systems -- The CAP Theorem -- Document -- Based NOSQL Syst
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the database concepts  and apply ER models to  any real world application-(K3)
+- Understand the database concepts  and apply ER models to  any real world application- (K3)
 - Apply data definition and complex SQL queries - (K3)
 - Design databases using normalization and ER to Relational mapping and write database program for a real-time application - (K3)
 - Apply transaction processing, concurrency control and recovery mechanisms for practical problems - (K3)
@@ -60,4 +60,4 @@ After the completion of this course, students will be able to:
 2. S.Sumathi, S. Esakkirajan, `` Fundamentals of Relational Database Management Systems '', (Studies in Computational Intelligence), Springer-Verlag, 2007.
 3. Raghu Ramakrishnan, `` Database Management Systems'', Tata Mc Graw Hill, 4th Edition, 2010.
 4. C.J.Date, A.Kannan, S.Swamynathan, "An Introduction to Database Systems", Eighth Edition, Pearson Education, 2006.
-5. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom, Database Systems:The Complete Book, 2e, Pearson.
+5. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom, "Database Systems:The Complete Book", 2e, Pearson.

@@ -48,7 +48,7 @@ After the completion of this course, students will be able to:
 - Understand the database concepts  and apply ER models to  any real world application-(K3)
 - Apply data definition and complex SQL queries - (K3)
 - Design databases using normalization and ER to Relational mapping and write database program for a real-time application - (K3)
-- Apply transaction processing, concurrency control and recovery mechanisms for practical problems-(K3)
+- Apply transaction processing, concurrency control and recovery mechanisms for practical problems - (K3)
 - Understand  the concepts of NOSQL databases - (K2)
 
 ** Text Books 

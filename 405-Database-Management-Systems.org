@@ -32,7 +32,7 @@ Triggers -- Views; Database Programming Techniques: Overview and Issues -- Embed
 
 
 {{{unit}}}
-Unit V | Transaction, Concurrency and Recovery | 8 |
+|Unit iV | Transaction, Concurrency and Recovery | 8 |
 Transaction Processing: Concepts -- ACID properties -- schedules -- serializability; Concurrency control: Two-phase locking technique -- Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate update -- Multidatabase system recovery
 
 

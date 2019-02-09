@@ -14,7 +14,7 @@
 - To understand data definitions and data manipulation commands
 - To learn about the use of nested and join queries
 - To understand procedural extensions of databases
-- To design a database schema for an application using Normalization
+- To learn about NOSQL databases
 - To implement typical data base applications using Front-end tools
 
 {{{unit}}}
@@ -43,13 +43,13 @@
 \hfill *Total: <45>*
 
 ** Software Required for a batch of 30 students:
-1. Database: Oracle 10g - 30 Clients with 1 Server Node, MonogoDB
-2. Front-end: NetBeans with JDBC (Java)
+1. Database: Oracle 10g, MonogoDB/Cassandra/Hbase - 30 Clients with 1 Server Node.
+2. Front-end: NetBeans with JDBC/.NET (Java)
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Use data definitions and manipulation commands - (K3)
 - Write complex SQL Queries - (K3)
 - Implement Database programming using PL/SQL - (K3)
-- Design a database for real-time applications - (K3)
-- Implement and analyze the use of Tables, PL/SQL for a realistic database applications using a Front-end tool - (K4)
+- Write operations in NOSQL databases  - (K3)
+- Implement realistic database applications using a Front-end tool - (K3)

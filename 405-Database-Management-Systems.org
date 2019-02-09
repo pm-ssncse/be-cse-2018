@@ -24,11 +24,11 @@ Characteristics of database -- Database users -- Data models, Schemas -- Three-s
 
 {{{unit}}}
 |Unit II | Relational Model and SQL | 11 |
-Relational model: Concepts -- Constraints -- Update operations -- Constraint voilations; Relational Algebra;Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands -- Schema modification;More SQL: dealing NULL -- Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate functions -- Grouping.
+Relational model: Concepts -- Constraints -- Update operations -- Constraint voilations; Relational Algebra; Basic SQL: Data Definition -- SQL constraints -- Basic retrieval queries -- Insert, delete and update commands -- Schema modification;More SQL: dealing NULL -- Tuples, Set/Multiset comparisons -- Correlated nested -- EXISTS function -- SQL Renaming -- JOIN and Outer JOINs -- Aggregate functions -- Grouping.
 
 {{{unit}}}
 |Unit III | Database Programming and Design| 10 |
-Triggers -- Views; Database Programming Techniques: Overview and Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and SQL/PSM ; Design guidelines -- Functional dependencies -- First, second and third Normal Forms -- Boyce-Codd Normal Forms; FD: Inference rules -- minimal cover; ER-to-relational mapping.
+Triggers -- Views; Database Programming Techniques: Overview and Issues -- Embedded SQL -- JDBC -- Database Stored Procedures and SQL/PSM ; Design guidelines -- Functional dependencies -- First, second and third Normal Forms -- Boyce-Codd Normal Forms; ER-to-relational mapping.
 
 
 {{{unit}}}

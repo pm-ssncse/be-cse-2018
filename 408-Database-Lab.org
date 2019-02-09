@@ -37,15 +37,13 @@
 6. Procedures and Functions
 7. Triggers
 8. Exception Handling
-9. Database design 
-      a. ER Model, ER-to-relational mapping
-      b. Normalization
+9. Document-Based/Column-Based NOSQL Databases
 10. Implement the database application using any Front-end
 
 \hfill *Total: <45>*
 
 ** Software Required for a batch of 30 students:
-1. Database: Oracle 10g - 30 Clients with 1 Server Node
+1. Database: Oracle 10g - 30 Clients with 1 Server Node, MonogoDB
 2. Front-end: NetBeans with JDBC (Java)
 
 ** Course Outcomes

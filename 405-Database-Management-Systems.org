@@ -71,7 +71,7 @@ After the completion of this course, students will be able to:
   and write database program for a real-time application (K3)
 - Apply transaction processing, concurrency control and recovery
   mechanisms for practical problems (K3)
-- Understand the concepts of NOSQL databases (K2)
+- Understand the concepts of NOSQL databases (K2).
 
 ** TEXT BOOKS 
 1. Ramez Elmasri and Shamkant B Navathe, ``Fundamentals of Database
@@ -90,4 +90,4 @@ After the completion of this course, students will be able to:
 4. C J Date, A Kannan, S Swamynathan, "An Introduction to Database
    Systems", 8th Edition, Pearson Education, 2006.
 5. Hector Garcia-Molina, Jeffrey D Ullman, Jennifer Widom, "Database
-   Systems:The Complete Book", 2e, Pearson.
+   Systems:The Complete Book", 2nd Edition, Pearson.
